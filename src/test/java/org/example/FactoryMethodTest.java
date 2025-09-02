@@ -1,6 +1,9 @@
 package org.example;
 
 
+import org.example.interfaces.Notification;
+import org.example.notificationtypes.EmailNotification;
+import org.example.notificationtypes.SmsNotification;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
